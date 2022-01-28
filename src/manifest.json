@@ -3,6 +3,9 @@
 	"name": "Paskanaattori",
 	"version": "0.1",
 	"description": "Muuttaa sanoja paskaksi.",
+	"icons": {
+		"128": "icon128.png" 
+	},
 	"content_scripts": 
 	[
 		{
