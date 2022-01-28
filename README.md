@@ -6,4 +6,4 @@
 - Varmista, että kehittäjätila on päällä (sivun oikea ylänurkka)
 - Valitse `Lataa pakkaamaton`
 - Valitse purkamasi zip-tiedoston Paskanaattori-kansio
-- Lisäosan voi nyt ottaa käyttöön
+- Lisäosa on nyt käytössä
